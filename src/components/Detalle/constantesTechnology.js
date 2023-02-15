@@ -1,0 +1,1 @@
+export const DTECHNOLOGY = ["PHP", "Node", "Java", "ASP.NET"];

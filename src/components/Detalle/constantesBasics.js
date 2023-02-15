@@ -1,0 +1,1 @@
+export const DBASICS = ["HTML", "CSS", "JavaScript"];

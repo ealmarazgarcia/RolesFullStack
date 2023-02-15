@@ -1,0 +1,1 @@
+export const CFRONTEND = ["Basics", "Frameworks", "Styles"];

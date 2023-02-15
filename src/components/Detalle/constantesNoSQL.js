@@ -1,0 +1,1 @@
+export const DNOSQL = ["Mongo", "Casandra", "CouchDB"];
